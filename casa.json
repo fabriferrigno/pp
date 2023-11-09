@@ -1,0 +1,22 @@
+{ "propiedades":
+[
+{
+  "precio": 250000,
+  "ubicacion": "Calle Principal 123",
+  "superficie": 200,
+  "descripcion": "Amplia casa con ambientes grandes"
+},
+{
+  "precio": 250000,
+  "ubicacion": "Calle Principal 123",
+  "superficie": 200,
+  "descripcion": "amplio"
+},
+{
+  "precio": 250000,
+  "ubicacion": "Calle Principal 123",
+  "superficie": 200,
+  "descripcion": "Amplia casa con ambientes grandes"
+}
+]
+}

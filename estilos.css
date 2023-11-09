@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(213, 231, 240);
+    font-family: Arial, sans-serif;
+}
+.encabezado{
+    border: 1px solid black;
+    background-color: rgb(154, 195, 219);
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    font-family: Arial, sans-serif;
+}
+h2{
+    color: brown ;
+}
+.mapa{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
